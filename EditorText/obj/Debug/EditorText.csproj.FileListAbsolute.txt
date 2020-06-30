@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\EditorText\bin\Debug\EditorText.exe.config
+C:\Users\User\source\repos\EditorText\bin\Debug\EditorText.exe
+C:\Users\User\source\repos\EditorText\bin\Debug\EditorText.pdb
+C:\Users\User\source\repos\EditorText\obj\Debug\EditorText.Form1.resources
+C:\Users\User\source\repos\EditorText\obj\Debug\EditorText.Properties.Resources.resources
+C:\Users\User\source\repos\EditorText\obj\Debug\EditorText.csproj.GenerateResource.cache
+C:\Users\User\source\repos\EditorText\obj\Debug\EditorText.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\EditorText\obj\Debug\EditorText.exe
+C:\Users\User\source\repos\EditorText\obj\Debug\EditorText.pdb
+C:\Users\User\source\repos\EditorText\obj\Debug\EditorText.csprojAssemblyReference.cache
+C:\Users\User\source\repos\EditorText\obj\Debug\EditorText.Setting.resources
